@@ -97,3 +97,22 @@ body .rodape .cursos
     margin-top: 5px;
     margin-bottom: 5px;
 }
+
+@media( max-width: 767px )
+{
+    body .unifeso2024 h1 
+    {
+        font-weight: bold;
+        margin-top: -25px;
+        text-align: center;
+        margin-bottom: -30px;
+        font-family: monospace;
+        font-size: 60px !important;
+    }
+
+    body .imagep img 
+    {
+        width: 340px;
+        height: 670px;
+    }
+}
