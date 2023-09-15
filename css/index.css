@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body .unifeso2024 h1
+{
+    font-weight: bold;
+    margin-top: -40px;
+    margin-bottom: -40px;
+    font-family: monospace;
+    font-size: 150px !important;
+}
+
+body .proxima h2
+{
+    font-weight: bold;
+    text-align: center;
+    font-family: monospace;
+}
+
+body .vestibular h2
+{
+    font-weight: bold;
+    margin-left: 60px;
+    font-family: monospace;
+}
+
+body .imagep img
+{
+    height: 670px;
+}
+
+body .insc
+{
+    padding: 30px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    background-color: #006B64;
+}
+
+body .insc b
+{
+    color: white;
+    font-size: 20px;
+}
+
+body .insc a
+{
+    color: yellow;
+    font-size: 20px;
+}
+
+body .provas
+{
+    padding: 30px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    background-color: #006B64;
+}
+
+body .provas b
+{
+    color: white;
+    font-size: 20px;
+}
+
+body .local
+{
+    padding: 30px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    padding-right: 18px;
+    background-color: #006B64;
+}
+
+body .local b
+{
+    color: white;
+    font-size: 20px;
+}
+
+body .imageu img
+{
+    height: 80px;
+}
+
+body .rodape b
+{
+    color: white;
+}
+
+body .rodape
+{
+    background-color: #1A1818;
+}
+
+body .rodape .cursos
+{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
